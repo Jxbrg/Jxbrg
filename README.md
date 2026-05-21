@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Jxbrg 👋</h1>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50&theme=dracula"  />
-</div>
-
 ### About Me
 
 I am a passionate developer with a deep love for open-source software and a constant desire to learn new technologies. Currently, I'm focusing on low-level systems and high-performance applications.
@@ -11,15 +7,6 @@ I am a passionate developer with a deep love for open-source software and a cons
 - I’m currently enjoying **Rust** and **C++**.
 - Proud **Linux** user and open-source enthusiast.
 - Building tools and exploring game development.
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jxbrg&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jxbrg&layout=compact&theme=dracula&langs_count=6" height="170" alt="languages graph"  />
-</div>
 
 ---
 
